@@ -27,12 +27,10 @@ class Game
         puts "#{player1.name}: #{player1.life}/3 vs. #{player2.name}: #{player2.life}/3"
       end
     end 
-
     puts "The winner is #{self.winner}."
     puts "GAME OVER"
   end
  def winner
   player1.life > 0 ? player1.name : player2.name
  end
-
 end
