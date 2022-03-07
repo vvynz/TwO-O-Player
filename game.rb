@@ -34,3 +34,5 @@ class Game
   player1.life > 0 ? player1.name : player2.name
  end
 end
+
+# Coded by Andrew Bidylo, Fotima Khamroeva, and Vivian Zhang

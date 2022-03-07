@@ -10,3 +10,5 @@ class Players
         @name = name
     end 
   end
+
+  # Coded by Andrew Bidylo, Fotima Khamroeva, and Vivian Zhang
